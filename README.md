@@ -1,4 +1,4 @@
-<img src="https://github.com/facade/flare-brand/raw/master/logo/logo-light.png" width="240"/>
+<img src="https://github.com/facade/flare-brand/raw/master/logo/logo.svg?sanitize=true" width="140"/>
 
 Assets for the Flare brand.
 
