@@ -1,2 +1,3 @@
-# flare-brand
-Assets for the Flare brand
+# Flare brand
+
+Assets for the Flare brand.
