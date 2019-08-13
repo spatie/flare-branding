@@ -7,4 +7,4 @@ Assets for the Flare brand.
 - [/logo](/logo): logos in vector (PDF) and pixels (PNG)
 - [/social](/social): custom social media assets like backgrounds
 
-Source files under `/src`, mostly in PDF vector format.
+Source files in each folder under `/src`, mostly in PDF vector format.
