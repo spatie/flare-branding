@@ -1,4 +1,4 @@
-<img src="https://github.com/facade/brand/raw/master/facade/logo/logo.svg?sanitize=true" width="140"/>
+<img src="https://github.com/facade/branding/raw/master/facade/logo/logo.svg?sanitize=true" width="140"/>
 
 Assets for Facade, Flare and Ignition (todo).
 
